@@ -1,0 +1,12 @@
+*.ipynb_checkpoints
+Pipfile
+Pipfile.lock
+*.xml
+model.png
+/test
+/train
+__pycache__
+/templates
+/utils
+*.h5
+*.json
